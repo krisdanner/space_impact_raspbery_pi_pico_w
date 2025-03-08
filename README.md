@@ -60,21 +60,21 @@ O objetivo deste repositório é fornecer uma base para que outros desenvolvedor
 
 -**main.c**:
 
-- Contém a lógica principal do jogo, incluindo o menu inicial, submenu de opções, e loop do jogo.
+   - Contém a lógica principal do jogo, incluindo o menu inicial, submenu de opções, e loop do jogo.
 
-- Funções para controle da nave, tiros, colisões, e renderização.
+   - Funções para controle da nave, tiros, colisões, e renderização.
 
 -**ssd1306.c e ssd1306.h**:
 
-- Biblioteca para controlar o display OLED SSD1306.
+   - Biblioteca para controlar o display OLED SSD1306.
 
 -**Bitmaps**:
 
-- Bitmaps da nave do jogador e dos inimigos estão definidos no código principal.
+   - Bitmaps da nave do jogador e dos inimigos estão definidos no código principal.
 
 -**Música e Efeitos Sonoros**:
 
-- A música de tema e os efeitos sonoros são gerados usando PWM nos buzzers.
+   - A música de tema e os efeitos sonoros são gerados usando PWM nos buzzers.
 
 ---
 
@@ -84,56 +84,56 @@ O objetivo deste repositório é fornecer uma base para que outros desenvolvedor
 
 1. **Novas Fases**:
 
-- Adicionar diferentes fases com inimigos e cenários únicos.
+   - Adicionar diferentes fases com inimigos e cenários únicos.
 
-- Implementar transições entre fases.
+   - Implementar transições entre fases.
 
 2. **Inimigos e Chefes**:
 
-Criar novos tipos de inimigos com padrões de movimento e ataques diferentes.
+   - Criar novos tipos de inimigos com padrões de movimento e ataques diferentes.
 
-Adicionar chefes no final de cada fase.
+   - Adicionar chefes no final de cada fase.
 
 3. **Cenários Dinâmicos**:
 
-Implementar cenários com rolagem de fundo.
+   - Implementar cenários com rolagem de fundo.
 
-Adicionar obstáculos e power-ups.
+   - Adicionar obstáculos e power-ups.
 
 4. **Sistema de Progressão**:
 
-Adicionar um sistema de níveis e experiência.
+   - Adicionar um sistema de níveis e experiência.
 
-Permitir que o jogador melhore a nave com upgrades.
+   - Permitir que o jogador melhore a nave com upgrades.
 
 5. **Melhorias de Interface**:
 
-Adicionar animações no menu inicial.
+   - Adicionar animações no menu inicial.
 
-Melhorar a exibição de pontuação e status do jogo.
+   - Melhorar a exibição de pontuação e status do jogo.
 
 6. **Multiplayer**:
 
-Implementar um modo cooperativo para dois jogadores.
+   - Implementar um modo cooperativo para dois jogadores.
 
 ---
 
 ## Licença
-Este projeto está licenciado sob a MIT License. Sinta-se à vontade para usar, modificar e distribuir o código conforme necessário.
+   Este projeto está licenciado sob a MIT License. Sinta-se à vontade para usar, modificar e distribuir o código conforme necessário.
 
 ---
 
 ## Agradecimentos
 
-- À comunidade do Raspberry Pi Pico por fornecer uma plataforma incrível para desenvolvimento.
+   - À comunidade do Raspberry Pi Pico por fornecer uma plataforma incrível para desenvolvimento.
 
-- Aos desenvolvedores da biblioteca SSD1306 por facilitar o uso do display OLED.
+   - Aos desenvolvedores da biblioteca SSD1306 por facilitar o uso do display OLED.
 
 ---
 
 ## Contato
 
-Se você tiver dúvidas, sugestões ou quiser contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request. Também pode me contatar diretamente pelo GitHub.
+   Se você tiver dúvidas, sugestões ou quiser contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request. Também pode me contatar diretamente pelo GitHub.
 
 Vamos transformar este jogo em algo incrível juntos! 🚀🎮
 -
