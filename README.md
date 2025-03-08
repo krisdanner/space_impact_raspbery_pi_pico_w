@@ -135,8 +135,8 @@ O objetivo deste repositório é fornecer uma base para que outros desenvolvedor
 
 ## Contato
 
-   Se você tiver dúvidas, sugestões ou quiser contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request. Também pode me contatar diretamente pelo GitHub.
+   Se você tiver dúvidas, sugestões ou quiser contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request. Também pode me contatar diretamente pelo GitHub, LinkedIn ou e-mail.
 
-Vamos transformar este jogo em algo incrível juntos! 🚀🎮
+Vamos transformar este jogo em algo incrível! 🚀🎮
 -
 Nota: Este projeto foi desenvolvido como um exemplo educacional e pode ser expandido para fins de aprendizado ou entretenimento. Divirta-se!
