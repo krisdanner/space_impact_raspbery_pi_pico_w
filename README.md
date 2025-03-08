@@ -60,21 +60,21 @@ O objetivo deste repositório é fornecer uma base para que outros desenvolvedor
 
 ### O código está organizado da seguinte forma:
 
--**main.c**:
+- **main.c**:
 
    - Contém a lógica principal do jogo, incluindo o menu inicial, submenu de opções, e loop do jogo.
 
    - Funções para controle da nave, tiros, colisões, e renderização.
 
--**ssd1306.c e ssd1306.h**:
+- **ssd1306.c e ssd1306.h**:
 
    - Biblioteca para controlar o display OLED SSD1306.
 
--**Bitmaps**:
+- **Bitmaps**:
 
    - Bitmaps da nave do jogador e dos inimigos estão definidos no código principal.
 
--**Música e Efeitos Sonoros**:
+- **Música e Efeitos Sonoros**:
 
    - A música de tema e os efeitos sonoros são gerados usando PWM nos buzzers.
 
