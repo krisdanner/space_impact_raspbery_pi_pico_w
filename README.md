@@ -1,5 +1,10 @@
 # Space Impact para Raspberry Pi Pico W
 
+![IMG-20250308-WA0006](https://github.com/user-attachments/assets/a1b65f21-927b-4c58-af9e-85b267c4c60a)
+![IMG-20250308-WA0001](https://github.com/user-attachments/assets/ef8e1073-c7fe-4063-9300-590f8c515ddc)
+![IMG-20250308-WA0004](https://github.com/user-attachments/assets/5def733d-9cbb-435b-8bec-0b3d49b89cf0)
+![IMG-20250308-WA0002](https://github.com/user-attachments/assets/ad1cd551-ea35-4818-aa2b-b73e8a65a05b)
+
 Este projeto é uma implementação do clássico jogo **Space Impact** para o **Raspberry Pi Pico W**, utilizando um display OLED SSD1306 e um joystick para controle. O jogo foi desenvolvido em C, utilizando a SDK do Raspberry Pi Pico, e inclui funcionalidades como menu inicial, ajuste de dificuldade, música de tema, e um sistema de pontuação.
 
 O objetivo deste repositório é fornecer uma base para que outros desenvolvedores possam expandir o jogo, adicionando novas fases, inimigos, cenários, chefes e muito mais!
