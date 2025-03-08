@@ -16,7 +16,7 @@ O objetivo deste repositório é fornecer uma base para que outros desenvolvedor
    - Música de tema tocada no Buzzer A.
 
 2. **Submenu de Opções**:
-   - **Enemies**: Ajusta a quantidade de inimigos (mínimo de 50).
+   - **Enemies**: Ajusta a quantidade de inimigos.
    - **Back**: Volta ao menu inicial.
 
 3. **Jogo Principal**:
